@@ -1,12 +1,12 @@
-# Secure-Data-Hiding-in-Image-Using-Steganography
 
-Secure Data Hiding in Image Using Steganography
 
-Introduction
+# Secure Data Hiding in Image Using Steganography
+
+# Introduction
 
 This project implements image-based steganography to securely hide messages within images. The hidden messages can only be retrieved using a password, ensuring confidentiality and security.
 
-Features
+# Features
 
 Secret message embedding within an image.
 
@@ -16,7 +16,7 @@ Minimal image distortion, making detection difficult.
 
 Supports different image formats.
 
-Technology Used
+# Technology Used
 
 Programming Language: Python
 
@@ -26,9 +26,7 @@ Libraries: OpenCV, OS, String Handling
 
 Concepts: Steganography, Image Processing, Cryptography Basics
 
-RClone the repository:
-
-
+# Clone the repository:
 
 git clone [Your GitHub Repository Link]
 
@@ -40,11 +38,11 @@ Install required dependencies:
 
 pip install opencv-python
 
-Usage
+# Usage
 
 Encryption (Hiding Message)
 
-Run the script:
+# Run the script:
 
 python encrypt.py
 
@@ -62,7 +60,7 @@ Enter the correct passcode.
 
 The hidden message will be displayed.
 
-Example
+# Example
 
 Input Image: Prem.jpg
 
@@ -70,7 +68,7 @@ Secret Message: Hello, this is a secret!
 
 Output Image: encryptedImage.jpg (Appears unchanged but contains the hidden message)
 
-Future Enhancements
+# Future Enhancements
 
 Implement AES encryption for an additional security layer.
 
@@ -80,15 +78,15 @@ Develop a GUI-based application for ease of use.
 
 Optimize storage algorithm to increase capacity while maintaining image quality.
 
-Contribution
+# Contribution
 
 Feel free to fork this repository, make improvements, and submit a pull request.
 
-License
+# License
 
 This project is open-source and available under the MIT License.
 
-GitHub Repository
+
 
 [Provide Your GitHub Repository Link Here]
 
