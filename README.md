@@ -28,7 +28,7 @@ Concepts: Steganography, Image Processing, Cryptography Basics
 
 # Clone the repository:
 
-git clone [Your GitHub Repository Link]
+git clone https://github.com/premkumarmistry/Secure-Data-Hiding-in-Image-Using-Steganography.git
 
 Navigate to the project directory:
 
